@@ -87,8 +87,6 @@
           </div>
         </div>
 
-        <!-- Select Basic -->
-
         <div class="form-group">
           <label class="col-md-4 control-label">Negeri Menetap <small>(State of residence)</small></label>
           <div class="col-md-4 selectContainer">
